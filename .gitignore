@@ -169,3 +169,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+task_01.ipynb
+UrbanSound8K.tar.gz
+UrbanSound8K
