@@ -174,3 +174,5 @@ cython_debug/
 task_01.ipynb
 UrbanSound8K.tar.gz
 UrbanSound8K
+pre_trained_DF_RawNet2.pth
+question_01.ipynb
