@@ -3,6 +3,7 @@ Speech Understanding PA 01
 
 This repository presents the work undertaken by Shyam Sathvik for Assignment 1 in the Speech Understanding course. The structure of the repository is as follows:
 
+```
 ├─ images            -> Waveforms and Spectrograms of UrbanSound8k dataset
 ├─ music             -> Flac files for Question 2 Task B    
 ├─ plots             -> Experiments and their results
@@ -26,3 +27,4 @@ This repository presents the work undertaken by Shyam Sathvik for Assignment 1 i
     │  ├─ fold8
     │  └─ fold9
     └─ metadata
+```
